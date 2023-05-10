@@ -1,0 +1,76 @@
+{
+  "order_uid": "b4512365416253412534",
+  "track_number": "WBILMTESTTRACK",
+  "entry": "WBIL",
+  "delivery": {
+    "name": "Maksim",
+    "phone": "+9984561123",
+    "zip": "2630456",
+    "city": "Kiryat",
+    "address": "test  15",
+    "region": "test",
+    "email": "test@mail.com"
+  },
+  "payment": {
+    "transaction": "testtest",
+    "request_id": "ts",
+    "currency": "USD",
+    "provider": "wbpay",
+    "amount": 1817,
+    "payment_dt": 1637907727,
+    "bank": "alpha",
+    "delivery_cost": 1500,
+    "goods_total": 317,
+    "custom_fee": 0
+  },
+  "items": [
+    {
+      "chrt_id": 1111,
+      "track_number": "WBILMTESTTRACK",
+      "price": 453,
+      "rid": "ab4219087a764ae0btest",
+      "name": "qwe",
+      "sale": 30,
+      "size": "0",
+      "total_price": 317,
+      "nm_id": 2389212,
+      "brand": "Vivienne Sabo",
+      "status": 202
+    },
+    {
+      "chrt_id": 222,
+      "track_number": "WBILMTESTTRACK",
+      "price": 500,
+      "rid": "ab4219087a764ae0btest",
+      "name": "test",
+      "sale": 100,
+      "size": "0",
+      "total_price": 450,
+      "nm_id": 2389212,
+      "brand": "Vivienne Sabo",
+      "status": 202
+    }
+  ,
+    {
+      "chrt_id": 333,
+      "track_number": "WBILMTESTTRACK",
+      "price": 500,
+      "rid": "ab4219087a764ae0btest",
+      "name": "Mascaras",
+      "sale": 100,
+      "size": "0",
+      "total_price": 450,
+      "nm_id": 2389212,
+      "brand": "test Sabo",
+      "status": 202
+    }
+  ],
+  "locale": "ru",
+  "internal_signature": "test",
+  "customer_id": "test",
+  "delivery_service": "meest",
+  "shardkey": "9",
+  "sm_id": 56,
+  "date_created": "2021-11-26T06:22:19Z",
+  "oof_shard": "1"
+}
